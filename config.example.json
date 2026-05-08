@@ -1,0 +1,10 @@
+{
+  "delay": 0,
+  "workers": 5,
+  "poll_interval": 30,
+  "namemc_autoclaim": false,
+  "webhook_url": "",
+  "discord_token": "",
+  "account_type": "ms",
+  "azure_client_id": ""
+}

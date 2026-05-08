@@ -1,0 +1,314 @@
+{
+  "names": {
+    "v_r": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "1v_": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "psj": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "zph": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "y87": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "z8m": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "3_k": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "lcn": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "ajo": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "w7n": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "bec": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "5b6": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "oe9": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "gjv": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "rxc": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "65b": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "bqn": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "jji": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "5si": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "pcw": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "ymc": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    },
+    "o3h": {
+      "uuid": "",
+      "last_checked": "2026-04-20T04:13:16.387669+00:00",
+      "status": "dropping",
+      "source": "namemc"
+    }
+  },
+  "drops": {
+    "v_r": {
+      "drop_time": "2026-04-17T18:19:27.663000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "1v_": {
+      "drop_time": "2026-04-21T15:14:15.170000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "psj": {
+      "drop_time": "2026-04-21T08:32:19.657000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "zph": {
+      "drop_time": "2026-04-22T21:03:12.290000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "y87": {
+      "drop_time": "2026-04-27T04:08:37.293000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "z8m": {
+      "drop_time": "2026-04-27T17:39:19.721000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "3_k": {
+      "drop_time": "2026-04-30T01:44:07.248000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "lcn": {
+      "drop_time": "2026-04-30T01:13:39.730000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "ajo": {
+      "drop_time": "2026-04-28T21:19:32.752000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "w7n": {
+      "drop_time": "2026-05-02T03:33:32.048000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "bec": {
+      "drop_time": "2026-05-01T22:22:50.277000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "5b6": {
+      "drop_time": "2026-05-03T01:36:22.159000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "oe9": {
+      "drop_time": "2026-05-03T15:55:48.026000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "gjv": {
+      "drop_time": "2026-05-04T09:04:38.089000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "rxc": {
+      "drop_time": "2026-05-03T17:28:01.503000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "65b": {
+      "drop_time": "2026-05-14T09:38:09.863000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "bqn": {
+      "drop_time": "2026-05-18T19:03:40.778000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "jji": {
+      "drop_time": "2026-05-19T19:19:01.101000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "5si": {
+      "drop_time": "2026-05-13T05:07:30.142000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "pcw": {
+      "drop_time": "2026-05-22T16:17:42.102000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "ymc": {
+      "drop_time": "2026-05-25T20:22:41.962000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    },
+    "o3h": {
+      "drop_time": "2026-05-19T18:17:07.675000+00:00",
+      "detected_at": "2026-04-20T04:13:16.387669+00:00",
+      "old_holder_uuid": "",
+      "status": "scraped",
+      "source": "namemc",
+      "window_hours": 0
+    }
+  }
+}

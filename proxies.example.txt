@@ -1,0 +1,9 @@
+# Repins Sniper — Proxy List
+# One proxy per line.  Formats supported:
+#   http://ip:port
+#   http://user:pass@ip:port
+#   socks5://ip:port
+#
+# Leave this file empty to use only free auto-scraped proxies.
+# The bot will scrape free proxy lists automatically on !dropscan start.
+
